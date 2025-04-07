@@ -39,17 +39,13 @@ LibraryManagement/
 ---
 
 ## 🔧 Cara Menggunakan
-### 1. Clone Repository (Jika ada di GitHub)
-```sh
-git clone https://github.com/username/LibraryManagement.git
-cd LibraryManagement
-```
 
-### 2. Jalankan Program
+### 1. Jalankan Program
 - Buka proyek di VS Code atau IDE Java lainnya.
+- Kompile `javac *.java`
 - Jalankan `Main.java`.
 
-### 3. Navigasi dalam Program
+### 2. Navigasi dalam Program
 - Pilih `1` untuk melihat daftar buku.
 - Pilih `2` untuk menambahkan buku baru.
 - Pilih `3` untuk menghapus buku berdasarkan nomor urutnya.
